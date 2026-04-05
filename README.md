@@ -6,10 +6,11 @@ An end-to-end data engineering pipeline that ingests live cryptocurrency data fr
 
 ## 🏗️ Architecture
 
-![Data_architecture_crypto_1775384101257.png](./Data_architecture_crypto_1775384101257.png "Data_architecture_crypto_1775384101257.png")
+![Architecture](./docs/Data_architecture_crypto.png)
+
 ---
 ## 🔄 Pipeline
->  ![pipeline_pic_1775381536784.png](./pipeline_pic_1775381536784.png "pipeline_pic_1775381536784.png")
+>  ![Pipeline](./docs/pipeline.png)
 
 ---
 
@@ -78,7 +79,7 @@ Three tables following a Star Schema:
 
 ## 📊 Data Model
 
->  ![data_model_crypto_1775386890612.png](./data_model_crypto_1775386890612.png "data_model_crypto_1775386890612.png")
+>  ![Data Model](./docs/data_model_crypto.png)
 
 ---
 
